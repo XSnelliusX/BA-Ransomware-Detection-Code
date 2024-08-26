@@ -1,5 +1,5 @@
 # XRan
-The Evalutation of the Original XRan Modell is taking place in the [xran.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/XRan.ipynb) file.
+The Evalutation of the Original XRan Modell is taking place in the [XRan.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/XRan.ipynb) file.
 
 ## Citing
 
