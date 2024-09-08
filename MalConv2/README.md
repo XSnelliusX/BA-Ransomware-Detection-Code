@@ -2,7 +2,7 @@
 The Evalutation is taking place in the [malconv_analysis.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/MalConv2/malconv_analysis.ipynb) file.
 
 ## Citing
-
+The Github Repository of the Original Authors can be found [here](https://github.com/FutureComputing4AI/MalConv2)
 The Dataset and Method is decribed in this [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17131):
 
 ```
