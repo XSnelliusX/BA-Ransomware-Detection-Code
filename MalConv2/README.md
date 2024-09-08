@@ -1,5 +1,5 @@
 # MalConv2
-The Evalutation is taking place in the [malconv_analysis.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/MalConv2/malconv_analysis.ipynb) file.
+The Personal Contribution can be foun in the [malconv_analysis.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/MalConv2/malconv_analysis.ipynb) file, where the Evalutation is taking place.
 
 ## Citing
 The Github Repository of the Original Authors can be found [here](https://github.com/FutureComputing4AI/MalConv2)
