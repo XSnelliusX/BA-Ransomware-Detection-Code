@@ -1,6 +1,6 @@
 # XRan
-The Evalutation of the Original XRan Modell is taking place in the [XRan.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/XRan.ipynb) file.
-The Evaluation of the own CNN is is taking place in the [own_cnn.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/own_cnn.ipynb) file.
+The Personal Contribution can be found in the [XRan.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/XRan.ipynb) and [own_cnn.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/own_cnn.ipynb) files.
+The Evalutation of the Original XRan Modell is taking place in the [XRan.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/XRan.ipynb) file, while the Evaluation of the own CNN is is taking place in the [own_cnn.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/XRan/own_cnn.ipynb) file.
 
 ## Citing
 
