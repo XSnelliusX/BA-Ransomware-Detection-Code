@@ -1,5 +1,5 @@
 # Ember
-The Personal Contribution can be foun in the [PE-Header Analyse.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/PE-Header-Analyse/PE-Header-Analyse.ipynb) file, where the Evalutation is taking place.
+The Personal Contribution can be found in the [PE-Header Analyse.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/PE-Header-Analyse/PE-Header-Analyse.ipynb) file, where the Evalutation is taking place.
 
 ## Citing
 
