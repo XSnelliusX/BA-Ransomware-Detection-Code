@@ -1,5 +1,6 @@
 # Ember
-The Evalutation is taking place in the [ember_analysis.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/ember/ember_analysis.ipynb) file.
+The Personal Contribution can be found in the [ember_analysis.ipynb](https://github.com/XSnelliusX/BA-Ransomware-Detection-Code/blob/main/ember/ember_analysis.ipynb) file, where the Evalutation is taking place.
+
 ## Citing
 The GitHub Repository of the Original Authors can be found [here](https://github.com/elastic/ember)<p>
 The Dataset and Method is decribed in this [paper](https://arxiv.org/abs/1804.04637):
